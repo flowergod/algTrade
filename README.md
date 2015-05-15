@@ -2,7 +2,9 @@
 
 ## 数据下载
 
-* http://www.yucezhe.com/
+* [预测者][] (http://www.yucezhe.com/)
+
+[预测者]: http://www.yucezhe.com/
 
 ## 论坛和教程
 
